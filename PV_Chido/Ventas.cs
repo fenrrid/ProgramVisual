@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PV_Chido{
     class Ventas{
-
+        int a = 0;
         int formadepago = 0;
         int cantidad = 0;
         String formadepago2 = "";
